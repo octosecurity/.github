@@ -6,6 +6,6 @@ Octosec is a team of cybersecurity proffesionals. We help our clients find vulne
 
 For any questions you might have, please reach out to us on convenient platform: 
 
-- [Octosec Website](https://octogroup.uz)
+- [Octosec Website](https://octosec.uz)
 - security@octogroup.uz
 
